@@ -1,4 +1,4 @@
-# Creative Ageny Website
+# Real Estate Website
 
 Click to view the page
 
@@ -6,11 +6,11 @@ Click to view the page
 
 ## Topics
 
-- html
-- css
-- Flexbox CSS 
-- Grid basics
-- Media queries
+- ReactUS
+- Javascript
+- React Icons
+- Responsive Design
+
 
 
 ## Author
